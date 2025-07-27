@@ -1,0 +1,194 @@
+v1.8.6
+======
+May 22, 2025
+* Update Selenium 4.32.0 support CDP 136
+* Add .gitmodules file for keywords package contains WebUI class
+
+v1.8.5
+======
+Feb 23, 2025
+* Update Selenium 4.29.0 support CDP 133
+* Update package name reports in src/main/java/com/anhtester/reports
+
+v1.8.4
+======
+Jan 25, 2025
+* Update Selenium 4.28.1 support CDP 132
+
+v1.8.3
+======
+Nov 1, 2024
+* Update Selenium 4.26.0 support CDP 130
+
+v1.8.2
+======
+Oct 29, 2024
+* Update Selenium 4.25.0
+* Fix issue headless mode on Jenkins Server Linux
+* Update dependency version latest
+
+v1.8.1
+======
+Sep 07, 2024
+* Optimize method in WebUI keyword
+
+v1.8.0
+======
+Sep 05, 2024
+* Update Selenium 4.24.0
+* Update support CDP 128 (Chromium)
+* Update method in WebUI keyword
+* Add read JSON file
+
+v1.7.9
+======
+Jul 26, 2024
+* Update Selenium 4.23.0
+* Update support CDP 127 (Chromium)
+
+v1.7.8
+======
+Jun 24, 2024
+* Update Selenium 4.22.0
+* Update support CDP 126 (Chromium)
+* Update CucumberListener class
+
+v1.7.7
+======
+May 28, 2024
+* Add: Take a screenshot of a specific step anywhere
+* Add: SCREENSHOT_ALL_STEPS_DETAIL to config.properties
+* Fix: Open Extent Report after run test
+
+v1.7.6
+======
+May 21, 2024
+* Fix screenshot step passed and all steps in report
+
+v1.7.5
+======
+May 17, 2024
+* Update Selenium 4.21.0 support CDP 125
+
+v1.7.4
+======
+May 03, 2024
+* Update full latest version in pom.xml
+
+v1.7.3
+======
+Apr 26, 2024
+* Update Selenium 4.20.0
+* Update support CDP 124 (Chromium)
+
+v1.7.2
+======
+Apr 02, 2024
+* Update Selenium 4.19.1
+* Update support CDP 123 (Chromium)
+
+v1.7.1
+======
+Jan 27, 2024
+* Update Selenium 4.18.1
+* Update support CDP 122 (Chromium)
+
+v1.7.0
+======
+Jan 26, 2024
+* Update Selenium 4.17.0
+* Update support CDP 121 (Chromium)
+* Update Dependencies in pom.xml
+
+v1.6.1
+======
+Dec 13, 2023
+* Update Cucumber 7.15.0
+* Update Test cases
+* Add Video Records
+* Upgrade dependency version
+
+v1.6.0
+======
+Dec 10, 2023
+* Update Selenium 4.16.1
+* Update support CDP 120 (Chrome)
+* Update devtools v120 in WebUI keyword
+
+v1.5.2
+======
+Nov 5, 2023
+* Update Selenium 4.15.0
+* Update support CDP 119 (Chrome)
+* Update devtools v119 in WebUI keyword
+
+v1.5.1
+======
+Oct 12, 2023
+* Update Selenium Java 4.14.0 support CDP to 118
+* Remove selenium-http-jdk-client
+
+v1.5.0
+======
+Oct 4, 2023
+* Update Selenium Java 4.13.0 support CDP 117
+* Update Cucumber Java 7.14.0
+* Upgrade all dependency version in pom.xml
+* Update WebUI keyword
+
+v1.4.0
+======
+Sep 7, 2023
+* Update Selenium Java 4.12.1
+* Support CDP 116
+* Change package anhtester.com to com.cuckdemo
+* Update version latest for all dependency
+* Require use JDK from 17 or newest
+
+v1.3.1
+======
+Aug 1, 2023
+* Update Selenium Java 4.11.0
+* Support Chrome browser 115
+* Remove WebDriverManager in BrowserFactory enum
+
+v1.3.0
+======
+Jun 19, 2023
+* Update Cucumber Java 7.13.0
+* Update Selenium 4.10.0
+* Update TestNG 7.8.0
+* Update latest version of all dependencies in pom.xml
+* Update functions in WebUI keyword
+* Edit function "clearText" in WebUI keyword
+
+v1.2.0
+======
+Apr 13, 2023
+* Update Selenium 4.8.3
+* Update function in WebUI keyword
+* Update version of all dependencies in pom.xml
+* Add test cases Gherkin sample
+
+v1.1.0
+======
+Oct 7, 2022
+* Add Cucumber Listener
+* Update Send mail with multiple files
+
+v1.0.0
+======
+Oct 7, 2022
+SOME FEATURES IN THE FRAMEWORK
+* Run the parallel Scenario on the feature file
+* Cucumber Report
+* Extent Report - Pdf Report
+* Allure Report
+* Send Mail after the run test (Report information and HTML file attachment)
+* Write Log to file
+* Record video and Screenshot test case
+* Read data test from Excel file (XLSX, CSV, JSON,...)
+* Base function in the package: utils, helpers
+* Read data test from the JSON file
+* Main keyword is WebUI
+* Sample test feature
